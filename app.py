@@ -30,8 +30,8 @@ def show_list(items):
 
 
 # ---------- Page setup ----------
-st.set_page_config(page_title="AI Incident Analyzer", page_icon="🛠️", layout="wide")
-st.title("🛠️ AI-Powered Incident Analyzer")
+st.set_page_config(page_title="AI Incident Analyzer", page_icon="📂", layout="wide")
+st.title("📂 AI-Powered Incident Analyzer")
 st.caption("Paste or upload application logs. Get a likely cause, severity, next steps and a shareable summary. "
            "Use sample or simulated logs only.")
 
